@@ -1,1 +1,2 @@
 import "./compose"
+import "./reducers"
